@@ -7,7 +7,14 @@ burgerMenu.addEventListener("click",()=>{
 
 
 //code for card section
-const data = [{
+const data = [
+{
+     imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/main/3d-flip-card-gallery.jpg",
+     title : "3D Flip Card Gallery",
+     link : "https://devuploads.com/gahxj2hof6j7"
+},
+    
+{
     imageSrc : "https://raw.githubusercontent.com/chandandevz/myPortfolio/master/hex_gallery.jpg",
     title: "Hexagon Gallery Code",
     link : "https://devuploads.com/m97urhr3nrmp"
