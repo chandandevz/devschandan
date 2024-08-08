@@ -9,6 +9,12 @@ burgerMenu.addEventListener("click",()=>{
 //code for card section
 const data = [
 {
+     imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/main/credit-card-design.jpg",
+     title : "Credit Card Form Design",
+     link : "https://devuploads.com/z4nx9uenmebq"
+},
+    
+{
      imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/main/3d-flip-card-gallery.jpg",
      title : "3D Flip Card Gallery",
      link : "https://devuploads.com/gahxj2hof6j7"
