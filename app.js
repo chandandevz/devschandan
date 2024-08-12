@@ -9,6 +9,12 @@ burgerMenu.addEventListener("click",()=>{
 //code for card section
 const data = [
 {
+     imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/main/20240812_171559_compress72.jpg",
+     title : "Animated Tab Bar",
+     link : "https://devuploads.com/fezivgzgr93h"
+},
+    
+{
      imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/main/credit-card-design2.jpg",
      title : "Credit Card Form Design",
      link : "https://devuploads.com/z4nx9uenmebq"
