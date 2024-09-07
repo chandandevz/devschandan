@@ -9,6 +9,12 @@ burgerMenu.addEventListener("click",()=>{
 //code for card section
 const data = [
 {
+      imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/main/neon-lg.jpg",
+      title : "Cool Neon Login Form",
+      link : "https://devuploads.com/o7zchs18glzh"
+},
+    
+{
      imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/main/20240812_171559_compress72.jpg",
      title : "Animated Tab Bar",
      link : "https://devuploads.com/fezivgzgr93h"
