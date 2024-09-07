@@ -9,6 +9,12 @@ burgerMenu.addEventListener("click",()=>{
 //code for card section
 const data = [
 {
+      imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/main/ambient.jpg",
+      title : "Ambient Light Effect",
+      link : "https://devuploads.com/nu9jielix0by"
+},
+    
+{
       imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/main/neon-lg.jpg",
       title : "Cool Neon Login Form",
       link : "https://devuploads.com/o7zchs18glzh"
