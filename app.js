@@ -9,6 +9,11 @@ burgerMenu.addEventListener("click",()=>{
 //code for card section
 const data = [
 {
+      imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/refs/heads/main/20240920_105223_compress41.jpg",
+      title : "Cool Wheather App",
+      link : "https://devuploads.com/rfhwq8nkvo95"
+},
+{
       imageSrc : "https://raw.githubusercontent.com/chandandevz/devschandan/main/ambient.jpg",
       title : "Ambient Light Effect",
       link : "https://devuploads.com/nu9jielix0by"
